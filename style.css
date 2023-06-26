@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(209, 197, 236);
+    margin-top:100px ;
+}
+.heading{
+    text-align: center;
+}
+form{
+    border:6px double rgb(93, 86, 86);
+    padding:30px;
+}
+label{
+    font-weight: 600;
+}
